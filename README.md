@@ -36,16 +36,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,postgres,supabase,sqlite,docker,aws,gcp,linux,git,vercel,figma&perline=11" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Metrics
 
 <p align="center">
