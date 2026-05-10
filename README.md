@@ -36,17 +36,19 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahKabeer&theme=default" alt="Profile Details" />
-</p>
-
----
-
 ## 🏆 Selected Recognition
 
 - **Texas House Resolution** (Mar 2025) — Honored on the floor of the Texas House of Representatives by Rep. Salman Bhojani at the Texas State Capitol
 - **Oslo Innovation Week** (2022) — Top 80 Startups Globally for UN Sustainable Development Goals · UVSET / SAFETouch
 - **Advancing Healthcare Innovation Summit** (2022) — Chairman's Prize with $10,000 grant · UVSET / SAFETouch
 - **3 US Patents** as named inventor (2022, 2024, 2025) — first filed at age 14 with technical mentor Mirza Faizan
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahKabeer&theme=default" alt="Profile Details" />
+</p>
+
+  
