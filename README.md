@@ -31,8 +31,8 @@
 ## 🚀 Selected Projects
 
 - **[spus-options-hedging](https://github.com/AbdullahKabeer/spus-options-hedging)** — Component-level options hedging for the Sharia-compliant SPUS ETF. Black-Scholes and Barone-Adesi-Whaley American put pricing implemented from scratch, with on-startup verification against reference values. Python, Streamlit, yfinance, FRED.
-- **[geminiextension](https://github.com/AbdullahKabeer/geminiextension)** — Chrome extension that drives the browser via natural-language commands using Google's Gemini API. Working prototype; reliable on simple tasks, breaks on JS-heavy SPAs. JavaScript, Manifest V3, Gemini Pro.
-- *Trading Infrastructure (private)* — 3,800-line systematic futures trading system on TopStepX. WebSocket tick ingestion, multi-regime detection, multi-layer risk controls, server-side bracket order management. Python, asyncio, websockets, NumPy.
+- **[Gemini Browser Agent Extension](https://github.com/AbdullahKabeer/geminiextension)** — Chrome extension that drives the browser via natural-language commands using Google's Gemini API. Working prototype; reliable on simple tasks, breaks on JS-heavy SPAs. JavaScript, Manifest V3, Gemini Pro.
+- **[Trading Infrastructure](https://github.com/AbdullahKabeer/trading-infra)** — 3,800-line systematic futures trading system on TopStepX. WebSocket tick ingestion, multi-regime detection, multi-layer risk controls, server-side bracket order management. Python, asyncio, websockets, NumPy.
 
 ---
 
