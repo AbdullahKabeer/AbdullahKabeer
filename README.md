@@ -31,7 +31,7 @@
 ## 🚀 Selected Projects
 
 - **[spus-options-hedging](https://github.com/AbdullahKabeer/spus-options-hedging)** — Component-level options hedging for the Sharia-compliant SPUS ETF. Black-Scholes and Barone-Adesi-Whaley American put pricing implemented from scratch, with on-startup verification against reference values. Python, Streamlit, yfinance, FRED.
-- **[Gemini Browser Agent Extension](https://github.com/AbdullahKabeer/geminiextension)** — Chrome extension that drives the browser via natural-language commands using Google's Gemini API. Working prototype; reliable on simple tasks, breaks on JS-heavy SPAs. JavaScript, Manifest V3, Gemini Pro.
+- **[Gemini Browser Agent Extension](https://github.com/AbdullahKabeer/geminiextension)** — Chrome Browser Agent (Manifest V3, JavaScript, Gemini API) A multi-step browser automation copilot that uses Set-of-Marks DOM tagging to give Gemini stable element IDs, executes 19 distinct actions with validation guardrails, and supports multi-tab workflows, collection tasks, and voice input. Working prototype handling search, navigation, form fills, and structured data extraction across arbitrary websites.
 - **[Trading Infrastructure](https://github.com/AbdullahKabeer/trading-infra)** — 3,800-line systematic futures trading system on TopStepX. WebSocket tick ingestion, multi-regime detection, multi-layer risk controls, server-side bracket order management. Python, asyncio, websockets, NumPy.
 
 ---
